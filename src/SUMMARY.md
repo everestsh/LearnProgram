@@ -1,7 +1,6 @@
 # Summary
 
 [首页](./Introduction.md)
-[元信息]()
 
 ---
 
@@ -20,12 +19,7 @@
     - [编程语言](./programming-languages/programming-languages.md)
       - [Rust]()
         - [认识与感受 Rust 的红与黑]()
-    - [数据结构与算法]()
-    - [编译原理]()
-    - [网络]()
-      - [TCP]()
-    - [数据库]()
-    - [术语汇总]()
+
 
 
 

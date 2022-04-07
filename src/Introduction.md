@@ -19,4 +19,4 @@ Hi, there.
 
 ## about me
 
-若有兴趣了解和认识我，这儿有个「[博客](https://binlogo.github.io/)」。
+若有兴趣了解和认识我，这儿有个「[博客]()」。
