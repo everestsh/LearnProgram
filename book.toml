@@ -1,0 +1,23 @@
+[book]
+authors = ["MG"]
+language = "zh-CN"
+multilingual = false
+title = "Learn Program"
+src = "src"
+
+[build]
+create-missing = false
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/everestsh/LearnProgram/"
+git-repository-icon = "fa-github"
+edit-url-template = "https://everestsh.github.io/LearnProgram/edit/main/{path}"
+
+[output.html.fold]
+enable = false
+level = 0
+
+[output.html.search]
+limit-results = 15
