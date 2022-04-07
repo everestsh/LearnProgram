@@ -3,7 +3,7 @@ authors = ["MG"]
 language = "zh-CN"
 multilingual = false
 title = "TEST"
-src = "mdbook-src"
+src = "src"
 
 [build]
 create-missing = false
