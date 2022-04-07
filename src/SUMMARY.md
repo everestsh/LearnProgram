@@ -17,9 +17,6 @@
       - [CS 110L: Safety in Systems Programming](./cs/class/cs110l.md)
         - [Course overview + the shell](./cs/class/missing-semester/course-shell.md)
     - [编程语言](./programming-languages/programming-languages.md)
-      - [Rust]()
-        - [认识与感受 Rust 的红与黑]()
-
 
 
 

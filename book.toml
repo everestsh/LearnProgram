@@ -2,7 +2,7 @@
 authors = ["MG"]
 language = "zh-CN"
 multilingual = false
-title = "TEST"
+title = "Learn Program"
 src = "src"
 
 [build]
