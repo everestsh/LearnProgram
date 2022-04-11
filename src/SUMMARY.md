@@ -16,6 +16,8 @@
     - [JS](./ProgramLanguage/JavaScript/JavaScriptBase.md)
     - [gatsby](./ProgramLanguage/JavaScript/gatsby/Gatsby.md)
     - [React](./ProgramLanguage/JavaScript/gatsby/Gatsby.md)
+  - [Python3]()
+  - [Rust](./ProgramLanguage/Rust/Rust.md)
   - [计算机科学]()
     - [课程记录]()
       - [CS 110L: Safety in Systems Programming](./cs/class/cs110l.md)
