@@ -21,11 +21,24 @@
 ####  [--- 0001 > 二进制与十进制的相互转换]()
 - [x] [Description:]()
 ```plaintext
-{{#include ./../plaintextCode/Base/baseConversion/0001_2To10.txt}}
+{{#include ./../plaintextCode/Base/baseConversion/0001_2To10.txttmp}}
 ```
 - [x] [JS Code:]()
 ```javascript
-{{#include ./../plaintextCode/Base/baseConversion/0001_2To10.jst}}
+{{#include ./../plaintextCode/Base/baseConversion/0001_2To10.jstmp}}
+```
+
+
+##  数组排序
+
+####  [--- 0001 > array Sort 数组排序]()
+- [x] [Description:]()
+```plaintext
+{{#include ./../plaintextCode/Base/arrayLib/0001_arraySort.txt}}
+```
+- [x] [JS Code:]()
+```javascript
+{{#include ./../plaintextCode/Base/arrayLib/0001_arraySort.js}}
 ```
 
 ## 链接 
