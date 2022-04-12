@@ -41,6 +41,19 @@
 {{#include ./../plaintextCode/Base/arrayLib/0001_arraySort.js}}
 ```
 
+
+
+####  [--- 0001 > 在 JavaScript 中获取字符串的最后一个字符]()
+- [x] [Description:]()
+```plaintext
+{{#include ./../plaintextCode/Base/arrayLib/0001_arraySort.txt}}
+```
+- [x] [JS Code:]()
+```javascript
+{{#include ./../plaintextCode/Base/arrayLib/0001_arraySort.js}}
+```
+
+
 ## 链接 
 
 #### --- 0001
