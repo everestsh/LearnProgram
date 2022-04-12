@@ -235,6 +235,45 @@ n = [40, 100, 1, 5, 25, 10]
 console.log( arraySort (n) )
 console.log(&quot;------------Test   End---------------&quot;)
 </code></pre>
+<h4 id="----0001--在-javascript-中获取字符串的最后一个字符"><a class="header" href="#----0001--在-javascript-中获取字符串的最后一个字符"><a href="">--- 0001 &gt; 在 JavaScript 中获取字符串的最后一个字符</a></a></h4>
+<ul>
+<li><input disabled="" type="checkbox" checked=""/>
+<a href="">Description:</a></li>
+</ul>
+<pre><code class="language-plaintext">--- 0001 &gt; arraySort
+
+Description:
+比值函数
+比较函数的目的是定义另一种排序顺序。
+比较函数应该返回一个负，零或正值，这取决于参数：
+  function(a, b){return a-b}
+当 sort() 函数比较两个值时，会将值发送到比较函数，并根据所返回的值（负、零或正值）对这些值进行排序。
+当比较 40 和 100 时，sort() 方法会调用比较函数 function(40,100)。
+该函数计算 40-100，然后返回 -60（负值）。
+排序函数将把 40 排序为比 100 更低的值。
+您可以使用下面的代码片段来测试数值和字母排序：
+
+Example:
+--- ex1
+Input:
+n = [40, 100, 1, 5, 25, 10]
+Output:
+[ 1, 5, 10, 25, 40, 100 ]
+</code></pre>
+<ul>
+<li><input disabled="" type="checkbox" checked=""/>
+<a href="">JS Code:</a></li>
+</ul>
+<pre><code class="language-javascript">console.log(&quot;------------Test start--------------&quot;)
+// --- 0001 &gt; arraySort
+function arraySort  (n) {
+    return  n.sort(function(a, b){return a - b});
+}
+let n
+n = [40, 100, 1, 5, 25, 10]
+console.log( arraySort (n) )
+console.log(&quot;------------Test   End---------------&quot;)
+</code></pre>
 <h2 id="链接"><a class="header" href="#链接">链接</a></h2>
 <h4 id="----0001"><a class="header" href="#----0001">--- 0001</a></h4>
 <ul>
