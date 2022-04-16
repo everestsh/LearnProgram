@@ -29,7 +29,7 @@
 ```
 
 
-##  数组排序
+##  Lib
 
 ####  [--- 0001 > array Sort 数组排序]()
 - [x] [Description:]()
@@ -40,17 +40,41 @@
 ```javascript
 {{#include ./../plaintextCode/Base/arrayLib/0001_arraySort.js}}
 ```
-
-
-
-####  [--- 0001 > 在 JavaScript 中获取字符串的最后一个字符]()
+####  [--- 0002 > 在 JavaScript substring() 中获取字符串的最后一个字符]()
 - [x] [Description:]()
 ```plaintext
-{{#include ./../plaintextCode/Base/arrayLib/0001_arraySort.txt}}
+{{#include ./../plaintextCode/Base/arrayLib/0002_useSubstr.txt}}
 ```
 - [x] [JS Code:]()
 ```javascript
-{{#include ./../plaintextCode/Base/arrayLib/0001_arraySort.js}}
+{{#include ./../plaintextCode/Base/arrayLib/0002_useSubstr.js}}
+```
+####  [--- 0003 > charAt]()
+- [x] [Description:]()
+```plaintext
+{{#include ./../plaintextCode/Base/arrayLib/0003_useCharAt.txt}}
+```
+- [x] [JS Code:]()
+```javascript
+{{#include ./../plaintextCode/Base/arrayLib/0003_useCharAt.js}}
+```
+####  [--- 0004 > Slice]()
+- [x] [Description:]()
+```plaintext
+{{#include ./../plaintextCode/Base/arrayLib/0004_useSlice.txt}}
+```
+- [x] [JS Code:]()
+```javascript
+{{#include ./../plaintextCode/Base/arrayLib/0004_useSlice.js}}
+```
+####  [--- 0004 > split()]()
+- [x] [Description:]()
+```plaintext
+{{#include ./../plaintextCode/Base/arrayLib/0005_useSplit.txt}}
+```
+- [x] [JS Code:]()
+```javascript
+{{#include ./../plaintextCode/Base/arrayLib/0005_useSplit.js}}
 ```
 
 
