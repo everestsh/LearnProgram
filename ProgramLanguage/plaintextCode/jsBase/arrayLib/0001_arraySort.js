@@ -6,4 +6,4 @@ function arraySort  (n) {
 let n
 n = [40, 100, 1, 5, 25, 10]
 console.log( arraySort (n) )
-console.log("------------Test   End---------------")
+console.log("------------Test   End--------------")
