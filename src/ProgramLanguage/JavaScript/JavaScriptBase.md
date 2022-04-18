@@ -11,46 +11,82 @@
 ####  [--- 0001 > 二进制与十进制的相互转换]()
 - [x] [Description:]()
 ```plaintext
-{{#include ./../plaintextCode/Base/baseConversion/0001_2To10.txt}}
+{{#include ./../plaintextCode/jsBase/baseConversion/0001_2To10.txt}}
 ```
 - [x] [JS Code:]()
 ```javascript
-{{#include ./../plaintextCode/Base/baseConversion/0001_2To10.js}}
+{{#include ./../plaintextCode/jsBase/baseConversion/0001_2To10.js}}
 ```
 
 ####  [--- 0001 > 二进制与十进制的相互转换]()
 - [x] [Description:]()
 ```plaintext
-{{#include ./../plaintextCode/Base/baseConversion/0001_2To10.txttmp}}
+{{#include ./../plaintextCode/jsBase/baseConversion/0001_2To10.txttmp}}
 ```
 - [x] [JS Code:]()
 ```javascript
-{{#include ./../plaintextCode/Base/baseConversion/0001_2To10.jstmp}}
+{{#include ./../plaintextCode/jsBase/baseConversion/0001_2To10.jstmp}}
 ```
 
 
-##  数组排序
+##  Lib
 
 ####  [--- 0001 > array Sort 数组排序]()
 - [x] [Description:]()
 ```plaintext
-{{#include ./../plaintextCode/Base/arrayLib/0001_arraySort.txt}}
+{{#include ./../plaintextCode/jsBase/arrayLib/0001_arraySort.txt}}
 ```
 - [x] [JS Code:]()
 ```javascript
-{{#include ./../plaintextCode/Base/arrayLib/0001_arraySort.js}}
+{{#include ./../plaintextCode/jsBase/arrayLib/0001_arraySort.js}}
 ```
-
-
-
-####  [--- 0001 > 在 JavaScript 中获取字符串的最后一个字符]()
+####  [--- 0002 > 在 JavaScript substring() 中获取字符串的最后一个字符]()
 - [x] [Description:]()
 ```plaintext
-{{#include ./../plaintextCode/Base/arrayLib/0001_arraySort.txt}}
+{{#include ./../plaintextCode/jsBase/arrayLib/0002_useSubstr.txt}}
 ```
 - [x] [JS Code:]()
 ```javascript
-{{#include ./../plaintextCode/Base/arrayLib/0001_arraySort.js}}
+{{#include ./../plaintextCode/jsBase/arrayLib/0002_useSubstr.js}}
+```
+####  [--- 0003 > charAt]()
+- [x] [Description:]()
+```plaintext
+{{#include ./../plaintextCode/jsBase/arrayLib/0003_useCharAt.txt}}
+```
+- [x] [JS Code:]()
+```javascript
+{{#include ./../plaintextCode/jsBase/arrayLib/0003_useCharAt.js}}
+```
+####  [--- 0004 > Slice]()
+- [x] [Description:]()
+```plaintext
+{{#include ./../plaintextCode/jsBase/arrayLib/0004_useSlice.txt}}
+```
+- [x] [JS Code:]()
+```javascript
+{{#include ./../plaintextCode/jsBase/arrayLib/0004_useSlice.js}}
+```
+####  [--- 0001 > split()]()
+- [x] [Description:]()
+```plaintext
+{{#include ./../plaintextCode/jsBase/arrayLib/0005_useSplit.txt}}
+```
+- [x] [JS Code:]()
+```javascript
+{{#include ./../plaintextCode/jsBase/arrayLib/0005_useSplit.js}}
+```
+
+##  Higher Order Functions
+
+####  [--- 0004 > .map()]()
+- [x] [Description:]()
+```plaintext
+{{#include ./../plaintextCode/jsBase/higherOederFun/0001_useMapFun.txt}}
+```
+- [x] [JS Code:]()
+```javascript
+{{#include ./../plaintextCode/jsBase/higherOederFun/0001_useMapFun.js}}
 ```
 
 
